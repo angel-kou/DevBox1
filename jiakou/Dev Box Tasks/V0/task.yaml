@@ -1,5 +1,3 @@
-# yaml-language-server: $schema=../../task.yaml.schema.json
-
 name: choco
 description: Installs a Chocolatey package.
 author: Microsoft Corporation
