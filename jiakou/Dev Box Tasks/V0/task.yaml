@@ -14,7 +14,6 @@ inputs:
       more about Chocolatey packages. 
   version:
     defaultValue: ""
-    allowedValue: ["1.0"]
     type: string
     required: false
     description: The version of the Chocolatey package to install.
