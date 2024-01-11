@@ -1,0 +1,11 @@
+$schema: 1.0
+name: second-definition-test
+image: microsoftvisualstudio_visualstudioplustools_vs-2022-ent-general-win11-m365-gen2
+
+hostInformation: general_i_16c64gb512ssd_v2
+
+tasks:
+    - name: choco
+      parameters:
+        package: notepadplusplus.install
+supportsHibernation: true
