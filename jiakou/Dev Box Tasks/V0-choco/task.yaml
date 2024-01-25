@@ -29,7 +29,7 @@ documentation:
       description: install OracleJDK 17.0.2
       inputs:
         package: oraclejdk
-        version: 17.0.2
+        version: 17.0.0
     - task: choco
       description: install notepad++
       inputs:
