@@ -7,5 +7,5 @@ hostInformation: general_i_16c64gb512ssd_v2
 tasks:
     - name: powershell
       parameters:
-        command: "Write-Host 'hello, world!'"
+        command: "Write-Host 'hello, world'"
 supportsHibernation: true
